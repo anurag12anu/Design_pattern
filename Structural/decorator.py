@@ -8,7 +8,13 @@
  #                 |
   #        Concrete Decorator """"
   
-  
+
+"""The Decorator Pattern is a structural design pattern that allows additional
+functionality to be added to an object dynamically by wrapping it
+inside decorator objects, without changing the object's original 
+implementation. It is commonly used when features need to be combined
+flexibly at runtime."""
+ 
 from abc import ABC, abstractmethod
 
 # Component
