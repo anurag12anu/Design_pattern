@@ -27,3 +27,4 @@ class Factory:
             return f"invaild payment method"
 ob=Factory()
 ob.factory('upi')
+ob.factory('upi')
